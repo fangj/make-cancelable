@@ -1,0 +1,23 @@
+{
+  "name": "make-cancelable",
+  "version": "1.0.0",
+  "description": "make promise cancelable",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangj/make-cancelable.git"
+  },
+  "keywords": [
+    "promise",
+    "cancelable"
+  ],
+  "author": "FangJian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangj/make-cancelable/issues"
+  },
+  "homepage": "https://github.com/fangj/make-cancelable#readme"
+}
